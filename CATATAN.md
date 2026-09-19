@@ -304,3 +304,7 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - html scroll-behavior smooth
 - body id="top" sebagai target anchor
 - Preview.html dihapus
+
+## Update Log Sesi 18 revisi
+- Fix padding footer: dari 20px 0 jadi 0 0 20px 0 (bawah saja)
+- Penyebab: rewrite CSS sesi 18 menimpa padding sebelumnya
