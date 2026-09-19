@@ -198,3 +198,10 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 ## Update Log Sesi 10 revisi
 - Tahun di-wrap dalam span.year
 - Selector footer a:first-child, footer .year sama-sama InterDisplay 900
+
+## Update Log Sesi 11
+- Footer final gaya opsi I: bird SVG + slash + Rannndoms link + (R)
+- Semua warna senada #222
+- Link pakai dotted underline, warna inherit
+- Tahun dihapus dari footer
+- Bird dan (R) di luar link, hanya Rannndoms yang bisa diklik
