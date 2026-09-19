@@ -131,3 +131,12 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Italic: untuk judul lagu/buku, istilah asing, pemikiran internal
 - Code: untuk istilah teknis, nama file, perintah, path
 - Em dash (—) tidak boleh dipakai sama sekali
+
+## ATURAN BACKLINK (REVISI)
+- Wajib pakai link spesifik, bukan homepage. Contoh: postingan X tertentu, video YouTube tertentu, artikel berita tertentu.
+- Dilarang link ke Wikipedia.
+- Untuk lagu: pakai link video YouTube official dari channel resmi artis/label.
+- Untuk brand: pakai link resmi brand, atau review/artikel berita yang kredibel.
+- Sumber boleh dari mana saja: X, YouTube, Reddit, berita, jurnal, blog pribadi, dll.
+- Link harus relevan dengan konteks kalimat. Jangan dipaksakan.
+- Link ditaruh di dalam kalimat, bukan daftar terpisah.
