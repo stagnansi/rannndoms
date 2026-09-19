@@ -344,3 +344,10 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Root cause: .footer-brand masih punya display: none dari sesi 20, tidak pernah di-override
 - Fix: .footer-brand default inline-flex, JS cuma toggle .scrollable class di html
 - .footer-minimal dan .footer-full yang handle visibility, bukan parentnya
+
+## Update Log Sesi 22
+- REWRITE PENUH style.html dari nol
+- Hapus DUPLIKASI footer block (sebelumnya ada 2 di baris 88 dan 168)
+- .footer-brand sekarang display inline-flex, tidak lagi none
+- Urutan CSS: base, content, list, footer, footer-brand, to-top
+- Aturan mulai sekarang: JANGAN append >> ke style.html, harus rewrite penuh atau sed insert sebelum </style>
