@@ -185,7 +185,6 @@ footer {
   width: 14px;
   height: 14px;
   vertical-align: middle;
-  margin-right: 6px;
   fill: currentColor;
 }
 .slash {
@@ -193,7 +192,7 @@ footer {
   font-weight: 200;
   vertical-align: middle;
   color: #ccc;
-  margin: 0 0.3em;
+  margin: 0 0.4em;
 }
 .footer-brand {
   display: inline-flex;
@@ -226,9 +225,12 @@ footer {
 }
 .footer-minimal {
   display: inline;
-  font-family: Inter, sans-serif;
+  font-family: var(--font-mono);
   font-weight: 400;
   color: #444;
+}
+html.scrollable .footer-bird {
+  pointer-events: none;
 }
 html.scrollable .footer-minimal {
   display: none;
