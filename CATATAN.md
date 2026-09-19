@@ -263,3 +263,7 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Hapus font-weight 400 dari heading h1-h6
 - Body kembali Inter normal, heading kembali default tema (bold browser)
 - Sisa font-weight: 900 judul situs, 200 slash, 900 footer
+
+## Update Log Sesi 13 revisi 7
+- Tambah rule ul.blog-posts li a font-weight 500 (Medium)
+- Judul artikel di homepage list jadi Medium, judul di single article tetap default
