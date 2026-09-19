@@ -296,3 +296,11 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 ## Update Log Sesi 17
 - Fix artikel Kalah dari yang Gratis: hapus kalimat Selamat datang di awal
 - Tambah rule footer a:hover text-decoration none (hover di footer tidak underline, link di body tetap)
+
+## Update Log Sesi 18
+- Footer jadi split layout: brand kiri, tombol back to top kanan
+- Tombol back to top: panah chevron abu (#999), hover hitam (#222)
+- Footer link hover: border-bottom dotted ilang
+- html scroll-behavior smooth
+- body id="top" sebagai target anchor
+- Preview.html dihapus
