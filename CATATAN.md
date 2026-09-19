@@ -99,3 +99,6 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Alasan: biar tidak kelihatan seperti tulisan AI
 - Kalau butuh pemisah, pakai koma, titik, titik dua, tanda kurung, atau pisah jadi dua kalimat
 - Berlaku untuk artikel, catatan, komentar, dan file apapun di repo ini
+
+## Koreksi
+- Judul lagu Perunggu yang benar: "Ini Abadi", bukan "Abadi"
