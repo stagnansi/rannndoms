@@ -5,7 +5,7 @@ buildFuture = true
 disableHugoGeneratorInject = true
 
 [params]
-  description = "Tulisan yang tidak dicari siapa pun, tapi ditulis dengan sungguh-sungguh"
+  description = "Tulisan yang tidak dicari siapa pun, tapi ditulis dengan sungguh-sungguh."
   author = "Rannndoms"
 
 [markup]

@@ -168,3 +168,6 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 ## Update Log Sesi 7
 - Deskripsi situs diganti: "Tulisan yang tidak dicari siapa pun, tapi ditulis dengan sungguh-sungguh"
 - Alasan: konsisten dengan artikel 800+ kata, lebih catchy, self-aware
+
+## Koreksi
+- Deskripsi situs diakhiri titik
