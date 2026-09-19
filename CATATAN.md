@@ -248,3 +248,7 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Body pakai Inter weight 500 (Medium)
 - Heading h1-h6 tetap weight 400 (normal), tidak ikut berubah
 - Judul situs tetap 900 via .title h1, .title h2
+
+## Update Log Sesi 13 revisi 2
+- Konfirmasi: selector ul.blog-posts li a hanya berlaku di homepage list
+- single.html pakai h1 default, tidak terpengaruh
