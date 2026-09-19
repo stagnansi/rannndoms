@@ -5,7 +5,7 @@ Hugo + tema hugo-bearblog + GitHub + Cloudflare Pages
 
 ## Lokasi dan Repo
 - Proyek: ~/rannndoms (Termux)
-- Repo: github.com/stagnansi/rannndoms (branch: master, private)
+- Repo: github.com/stagnansi/rannndoms (branch: master, public)
 - Live: https://rannndoms.pages.dev
 - Cloudflare: build command hugo --minify, output public, env HUGO_VERSION=0.166.0
 
@@ -73,7 +73,7 @@ Jangan pakai >> ke style.html, harus rewrite penuh atau sed insert sebelum </sty
 - Warning LanguageCode teratasi lewat override baseof.html
 - Artikel: Halo Dunia (8 Jan 2025), Kalah dari yang Gratis (15 Mar 2025)
 - README.md tanpa mention Hugo
-- Catatan proyek ini (private, hanya penulis dan AI)
+- Catatan proyek ini (publik, ditulis ringkas tanpa info sensitif)
 
 ## Referensi
 - herman.bearblog.dev (gaya tulisan)
