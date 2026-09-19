@@ -234,3 +234,7 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - ul.blog-posts dapat margin block 1em atas dan bawah
 - Homepage: jarak list ke footer seimbang dengan jarak elemen lain
 - Artikel: paragraf terakhir tetap margin 0, jarak ke footer tetap rapat
+
+## Update Log Sesi 12
+- Heading h1-h6 dapat font-weight 900 (sama dengan footer)
+- Sudah pakai InterDisplay via var(--font-main), sekarang weight juga konsisten

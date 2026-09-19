@@ -95,8 +95,8 @@ main {
 content {
   display: block;
 }
-content > *:last-child,
-main > *:last-child {
+content > p:last-child,
+main > p:last-child {
   margin-bottom: 0;
 }
 table {
@@ -168,6 +168,8 @@ footer a {
   width: max-content;
 }
 ul.blog-posts {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
   list-style-type: none;
   padding: unset;
 }
