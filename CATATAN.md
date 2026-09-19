@@ -205,3 +205,9 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Link pakai dotted underline, warna inherit
 - Tahun dihapus dari footer
 - Bird dan (R) di luar link, hanya Rannndoms yang bisa diklik
+
+## Update Log Sesi 11 revisi
+- Padding-top footer dikurangi dari 25px ke 10px, padding-bottom 20px
+- Hapus duplikasi CSS footer (tema asli + override tadi)
+- CSS footer sekarang hanya satu blok, isinya padding, color #222, InterDisplay 900
+- Konfirmasi: tag <footer> hanya ada di baseof.html, tidak diduplikasi
