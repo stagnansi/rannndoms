@@ -171,3 +171,6 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 
 ## Koreksi
 - Deskripsi situs diakhiri titik
+
+## ATURAN TANGGAL ARTIKEL
+- Halo Dunia: 8 Januari 2025
