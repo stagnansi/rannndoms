@@ -23,3 +23,5 @@ Blog ini tidak punya jadwal tetap. Kadang seminggu sekali, kadang sebulan sekali
 ## Lisensi
 
 Semua tulisan adalah milik penulis. Silakan kutip dengan menyertakan tautan ke sumber aslinya.
+
+- [Blog dari HP Sebelum Zaman Android](content/blog/blog-dari-hp-sebelum-zaman-android.md) - 12 Jun 2025

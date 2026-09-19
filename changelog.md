@@ -82,3 +82,10 @@ Jangan pakai >> ke style.html, harus rewrite penuh atau sed insert sebelum </sty
 ## Update Log Ringkas
 - Sesi 1 sampai 15: Setup awal, tema, artikel pertama, artikel kedua
 - Sesi 16 sampai 22: Poles footer, tombol back to top, README, rewrite style.html
+
+## Update Log Sesi 23
+- Artikel baru: "Blog dari HP Sebelum Zaman Android" tentang Mywapblog
+- Tanggal: 2025-06-12
+- Tema: kenangan platform blog seluler legendaris, pendiri Arvind Gupta, penutupan 2016
+- Backlink: esato.com, sepenggal.info, mojok.co, infiartt.com
+- README diupdate dengan judul artikel baru
