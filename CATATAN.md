@@ -189,3 +189,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 ## Update Log Sesi 9 revisi
 - Hapus border-top (garis horizontal) di footer
 - Hapus styling custom footer a dan a:hover, kembali ke default tema (warna link, hover underline)
+
+## Update Log Sesi 10
+- Footer brand pakai InterDisplay weight 900 (Black)
+- Letter-spacing -0.02em biar rapat dan tegas
+- Selector: footer a:first-child
