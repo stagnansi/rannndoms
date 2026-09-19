@@ -185,3 +185,7 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Styling slash: font-size 1.4em, weight 200, warna #ccc, margin horizontal 0.3em
 - Link footer warna #999, hover biru, tanpa underline
 - File static/preview.html dihapus
+
+## Update Log Sesi 9 revisi
+- Hapus border-top (garis horizontal) di footer
+- Hapus styling custom footer a dan a:hover, kembali ke default tema (warna link, hover underline)
