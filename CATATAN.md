@@ -179,3 +179,9 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Footer diganti: Rannndoms® / {{ now.Year }} (tahun otomatis)
 - Styling: border-top 1px #e5e5e5, margin-top 40px, warna #999, font-size 0.85em, letter-spacing 0.05em
 - Kombinasi F (slash) + D (garis horizontal)
+
+## Update Log Sesi 9
+- Footer final: Rannndoms® (link ke x.com/rannndoms) / slash besar / tahun otomatis
+- Styling slash: font-size 1.4em, weight 200, warna #ccc, margin horizontal 0.3em
+- Link footer warna #999, hover biru, tanpa underline
+- File static/preview.html dihapus
