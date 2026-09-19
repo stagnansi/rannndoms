@@ -320,3 +320,9 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Tombol back to top auto-hide kalau halaman tidak scrollable
 - File baru: layouts/partials/custom_body.html berisi JS cek scrollHeight vs innerHeight
 - CSS .to-top default display none, JS yang nampilin kalau halaman bisa discroll
+
+## Update Log Sesi 20
+- Footer: link pindah ke bird, teks jadi copyright (c) tahun berjalan
+- Bird hover jadi warna Twitter #1DA1F2, tanpa underline
+- footer-brand auto-hide sama seperti to-top saat halaman tidak scrollable
+- JS update selector .footer-brand dan .to-top sekaligus
