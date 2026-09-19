@@ -257,3 +257,9 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Hapus font-weight dari heading umum h1-h6, biarkan browser default (bold)
 - Sesuai tema asli Bear Blog yang tidak set font-weight di heading
 - Judul situs (.title h1, .title h2) tetap 900 karena permintaan eksplisit sebelumnya
+
+## Update Log Sesi 13 revisi 6
+- Hapus font-weight 500 dari body
+- Hapus font-weight 400 dari heading h1-h6
+- Body kembali Inter normal, heading kembali default tema (bold browser)
+- Sisa font-weight: 900 judul situs, 200 slash, 900 footer
