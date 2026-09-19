@@ -102,3 +102,9 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 
 ## Koreksi
 - Judul lagu Perunggu yang benar: "Ini Abadi", bukan "Abadi"
+
+## Update Log Sesi 5
+- Termux di-uninstall, proyek di-clone ulang dari GitHub ke ~/rannndoms
+- Submodule tema perlu git submodule update --init --recursive setiap clone ulang
+- Fix warning deprecated .Site.LanguageCode dengan override file tema ke layouts/ lokal
+- Perbaikan ini permanent, ikut ter-push ke GitHub, tidak perlu diulang tiap clone
