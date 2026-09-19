@@ -211,3 +211,6 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Hapus duplikasi CSS footer (tema asli + override tadi)
 - CSS footer sekarang hanya satu blok, isinya padding, color #222, InterDisplay 900
 - Konfirmasi: tag <footer> hanya ada di baseof.html, tidak diduplikasi
+
+## Update Log Sesi 11 revisi 2
+- Padding-top footer diset 0, padding-bottom tetap 20px
