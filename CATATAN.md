@@ -334,3 +334,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - JS toggling class scrollable di html element, CSS yang switch
 - Bird dan Rannndoms dua-duanya link ke x.com/rannndoms
 - Bird hover warna Twitter, Rannndoms hover tanpa underline
+
+## Update Log Sesi 21 revisi
+- Fix CSS nyasar di luar </style> karena append >> ke style.html
+- Hapus baris CSS yang muncul sebagai teks, re-insert di dalam </style>
+- Pelajaran: JANGAN pakai >> ke style.html, harus pakai sed insert sebelum </style>
