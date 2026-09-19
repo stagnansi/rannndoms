@@ -1,0 +1,23 @@
+baseURL = "https://rannndoms.pages.dev/"
+title = "Rannndoms®"
+theme = "hugo-bearblog"
+
+defaultContentLanguage = "id"
+
+[languages]
+  [languages.id]
+    locale = "id-ID"
+    label = "Indonesia"
+    weight = 1
+
+[params]
+  description = "Catatan acak dari Android"
+  author = "Rannndoms"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
