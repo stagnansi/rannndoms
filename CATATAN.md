@@ -223,3 +223,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 ## Update Log Sesi 11 revisi 4
 - Root cause jarak footer jauh: paragraf terakhir punya margin-bottom 1em, tidak collapse karena beda parent dengan footer
 - Fix: main p:last-child dan content p:last-child margin-bottom 0
+
+## Update Log Sesi 11 revisi 5
+- Rewrite penuh style.html dari nol, bersih dari sisa-sisa patch
+- Tambah content { display: block; } yang sebelumnya tidak ada, kemungkinan penyebab utama gap
+- content > *:last-child margin-bottom 0 untuk hapus margin paragraf terakhir
