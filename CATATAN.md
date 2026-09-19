@@ -277,3 +277,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 
 ## Update Log Sesi 14 revisi 2
 - Gap judul artikel ke time: 0.7em -> 0.3em
+
+## Update Log Sesi 14 revisi 4
+- Kembalikan h1-h6 margin-bottom ke 0.4em
+- Tambah rule khusus h1 { margin-bottom: 0.1em } untuk judul artikel
+- Hanya judul artikel yang rapat ke time, heading lain (h2-h6) tetap default
