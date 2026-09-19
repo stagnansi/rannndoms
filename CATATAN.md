@@ -219,3 +219,7 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Padding-top footer diset 1.4rem (sama dengan line-height body)
 - Tambah rule main > *:last-child margin-bottom: 0 biar paragraf terakhir gak ada margin bawah
 - Total jarak paragraf terakhir ke footer = 1.4rem (setara 1 line height)
+
+## Update Log Sesi 11 revisi 4
+- Root cause jarak footer jauh: paragraf terakhir punya margin-bottom 1em, tidak collapse karena beda parent dengan footer
+- Fix: main p:last-child dan content p:last-child margin-bottom 0
