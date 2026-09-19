@@ -32,12 +32,12 @@ Hugo + tema hugo-bearblog + GitHub + Cloudflare Pages
 
 ## Aturan Kerja
 - Setiap update langsung commit dan push
-- Setiap update ikut update catatan.md ini
+- Setiap update ikut update changelog.md ini
 - Setiap update sertakan perintah restart server + cek localhost
 - Jangan pakai em dash di tulisan apapun
 - Artikel minimal 800 kata
 - Judul artikel pendek, tidak panjang
-- Setiap artikel baru wajib update README.md bagian Isi
+- Setiap artikel baru wajib update readme.md bagian Isi
 
 ## Aturan Backlink
 - Link spesifik ke halaman tertentu, bukan homepage
@@ -72,7 +72,7 @@ Jangan pakai >> ke style.html, harus rewrite penuh atau sed insert sebelum </sty
 - Font Inter, InterDisplay, IBM Plex Mono
 - Warning LanguageCode teratasi lewat override baseof.html
 - Artikel: Halo Dunia (8 Jan 2025), Kalah dari yang Gratis (15 Mar 2025)
-- README.md tanpa mention Hugo
+- readme.md tanpa mention Hugo
 - Catatan proyek ini (publik, ditulis ringkas tanpa info sensitif)
 
 ## Referensi
