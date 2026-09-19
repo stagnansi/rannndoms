@@ -238,3 +238,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 ## Update Log Sesi 12
 - Heading h1-h6 dapat font-weight 900 (sama dengan footer)
 - Sudah pakai InterDisplay via var(--font-main), sekarang weight juga konsisten
+
+## Update Log Sesi 12 revisi
+- font-weight 900 dihapus dari heading umum (h1-h6)
+- Hanya judul situs di header (.title h1 / .title h2) yang dapat weight 900
+- Judul artikel dan heading lain kembali normal
