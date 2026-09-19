@@ -243,3 +243,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - font-weight 900 dihapus dari heading umum (h1-h6)
 - Hanya judul situs di header (.title h1 / .title h2) yang dapat weight 900
 - Judul artikel dan heading lain kembali normal
+
+## Update Log Sesi 13
+- Body pakai Inter weight 500 (Medium)
+- Heading h1-h6 tetap weight 400 (normal), tidak ikut berubah
+- Judul situs tetap 900 via .title h1, .title h2
