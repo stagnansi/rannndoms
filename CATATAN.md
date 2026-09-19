@@ -315,3 +315,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Dilarang menulis di README: "tidak pakai em dash", "judul pendek", "gaya mengalir", "minimal 800 kata", "Hugo", nama generator lain
 - Section Prinsip DIHAPUS dari README, diganti "Catatan" berisi kalimat natural
 - Alasan: README publik, bisa dilihat siapa saja, jangan sampai ketahuan pakai AI
+
+## Update Log Sesi 19
+- Tombol back to top auto-hide kalau halaman tidak scrollable
+- File baru: layouts/partials/custom_body.html berisi JS cek scrollHeight vs innerHeight
+- CSS .to-top default display none, JS yang nampilin kalau halaman bisa discroll

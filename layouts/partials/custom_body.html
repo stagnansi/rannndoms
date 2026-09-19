@@ -1,0 +1,13 @@
+<script>
+(function() {
+  function update() {
+    var btn = document.querySelector(".to-top");
+    if (!btn) return;
+    var scrollable = document.documentElement.scrollHeight > window.innerHeight + 50;
+    btn.style.display = scrollable ? "inline-flex" : "none";
+  }
+  update();
+  window.addEventListener("load", update);
+  window.addEventListener("resize", update);
+})();
+</script>
