@@ -75,9 +75,9 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-main);
+  color: var(--heading-color);
   line-height: 1;
   margin-bottom: 0.4em;
-  color: var(--heading-color);
 }
 a {
   color: var(--link-color);
@@ -105,6 +105,13 @@ time {
 main {
   line-height: 1.5;
 }
+content {
+  display: block;
+}
+content > *:last-child,
+main > *:last-child {
+  margin-bottom: 0;
+}
 table {
   width: 100%;
 }
@@ -127,17 +134,32 @@ blockquote {
   font-style: italic;
 }
 footer {
-  margin-top: 40px;
-  color: #999;
-  font-size: 0.85em;
-  letter-spacing: 0.05em;
-  padding: 1.4rem 0 20px 0;
+  padding: 0 0 20px 0;
+  text-align: center;
   color: #222;
   font-family: InterDisplay, sans-serif;
   font-weight: 900;
   letter-spacing: -0.02em;
   font-size: 0.9em;
-  text-align: center;
+}
+.bird {
+  width: 14px;
+  height: 14px;
+  vertical-align: middle;
+  margin-right: 6px;
+  fill: currentColor;
+}
+.slash {
+  font-size: 1.4em;
+  font-weight: 200;
+  vertical-align: middle;
+  color: #ccc;
+  margin: 0 0.3em;
+}
+footer a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
 }
 .title:hover {
   text-decoration: none;
@@ -167,26 +189,6 @@ ul.blog-posts li {
 }
 ul.blog-posts li span {
   flex: 0 0 130px;
-}
-h1 + p, h2 + p, h3 + p, h4 + p {
-  margin-top: 0;
-  margin-bottom: 0.6em;
-}
-footer .slash {
-  font-size: 1.4em;
-  font-weight: 200;
-  vertical-align: middle;
-  color: #ccc;
-  margin: 0 0.3em;
-}
-.bird{width:14px;height:14px;vertical-align:middle;margin-right:6px;fill:currentColor}
-footer a{color:inherit;text-decoration:none;border-bottom:1px dotted currentColor}
-main > *:last-child {
-  margin-bottom: 0;
-}
-main p:last-child,
-content p:last-child {
-  margin-bottom: 0;
 }
 </style>
 <link rel="preconnect" href="https://rsms.me/">

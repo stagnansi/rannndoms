@@ -228,3 +228,9 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Rewrite penuh style.html dari nol, bersih dari sisa-sisa patch
 - Tambah content { display: block; } yang sebelumnya tidak ada, kemungkinan penyebab utama gap
 - content > *:last-child margin-bottom 0 untuk hapus margin paragraf terakhir
+
+## Update Log Sesi 11 revisi 6
+- Rule last-child diubah dari * ke p saja, biar ul.blog-posts tidak kena margin 0
+- ul.blog-posts dapat margin block 1em atas dan bawah
+- Homepage: jarak list ke footer seimbang dengan jarak elemen lain
+- Artikel: paragraf terakhir tetap margin 0, jarak ke footer tetap rapat
