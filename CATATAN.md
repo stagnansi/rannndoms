@@ -214,3 +214,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 
 ## Update Log Sesi 11 revisi 2
 - Padding-top footer diset 0, padding-bottom tetap 20px
+
+## Update Log Sesi 11 revisi 3
+- Padding-top footer diset 1.4rem (sama dengan line-height body)
+- Tambah rule main > *:last-child margin-bottom: 0 biar paragraf terakhir gak ada margin bawah
+- Total jarak paragraf terakhir ke footer = 1.4rem (setara 1 line height)
