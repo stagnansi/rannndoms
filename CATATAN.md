@@ -140,3 +140,13 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Sumber boleh dari mana saja: X, YouTube, Reddit, berita, jurnal, blog pribadi, dll.
 - Link harus relevan dengan konteks kalimat. Jangan dipaksakan.
 - Link ditaruh di dalam kalimat, bukan daftar terpisah.
+
+## ATURAN BACKLINK (REVISI FINAL)
+- Dilarang keras link ke Wikipedia.
+- Dilarang pakai frasa pengantar seperti "ada sebuah utas", "ada sebuah tweet", "ada penelitian". Link harus langsung menyatu dengan kalimat.
+- Contoh benar: "Levelsio pernah bilang di X bahwa..." dengan X di-link.
+- Contoh salah: "Ada sebuah tweet dari Levelsio yang bilang..."
+- Link harus spesifik ke halaman/konten tertentu, bukan homepage.
+- Untuk lagu: link ke video YouTube official dari channel resmi artis/label.
+- Untuk brand: link ke situs resmi atau review/artikel kredibel yang membahas brand itu.
+- Sumber bebas: X, YouTube, Reddit, berita, jurnal, blog pribadi. Selain Wikipedia.
