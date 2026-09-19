@@ -308,3 +308,10 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 ## Update Log Sesi 18 revisi
 - Fix padding footer: dari 20px 0 jadi 0 0 20px 0 (bawah saja)
 - Penyebab: rewrite CSS sesi 18 menimpa padding sebelumnya
+
+## ATURAN README.md
+- Setiap ada artikel baru, WAJIB update README.md bagian Isi dengan tambah judul + tanggal
+- JANGAN pernah tulis di README hal-hal yang mengindikasikan pakai AI atau generator situs
+- Dilarang menulis di README: "tidak pakai em dash", "judul pendek", "gaya mengalir", "minimal 800 kata", "Hugo", nama generator lain
+- Section Prinsip DIHAPUS dari README, diganti "Catatan" berisi kalimat natural
+- Alasan: README publik, bisa dilihat siapa saja, jangan sampai ketahuan pakai AI

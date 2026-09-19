@@ -11,12 +11,9 @@ Semua artikel ada di folder `content/blog/`.
 - [Halo Dunia](content/blog/halo-dunia.md) - 08 Jan 2025
 - [Kalah dari yang Gratis](content/blog/kalah-dari-yang-gratis.md) - 15 Mar 2025
 
-## Prinsip
+## Catatan
 
-- Tulisan minimal 800 kata
-- Tidak pakai em dash
-- Judul pendek, tidak panjang-panjang
-- Gaya mengalir seperti esai, bukan daftar poin
+Blog ini tidak punya jadwal tetap. Kadang seminggu sekali, kadang sebulan sekali. Kadang juga tidak sama sekali. Tidak ada tema khusus, tidak ada target audiens. Hanya tulisan.
 
 ## Kontak
 
