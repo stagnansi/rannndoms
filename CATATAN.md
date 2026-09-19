@@ -159,3 +159,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Dilarang link ke Wikipedia
 - Untuk lagu: link YouTube official dari channel resmi
 - Untuk brand: situs resmi atau review kredibel
+
+## Update Log Sesi 6
+- Heading h1-h6 line-height diset 1
+- Heading margin-bottom 0.4em
+- Jarak judul ke time dirapatkan dengan rule h1 + p margin-top 0
