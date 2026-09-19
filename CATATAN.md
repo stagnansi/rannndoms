@@ -274,3 +274,6 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 
 ## Update Log Sesi 14 revisi
 - Gap judul artikel ke time: 0.5em -> 0.7em
+
+## Update Log Sesi 14 revisi 2
+- Gap judul artikel ke time: 0.7em -> 0.3em
