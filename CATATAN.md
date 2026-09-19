@@ -108,3 +108,11 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Submodule tema perlu git submodule update --init --recursive setiap clone ulang
 - Fix warning deprecated .Site.LanguageCode dengan override file tema ke layouts/ lokal
 - Perbaikan ini permanent, ikut ter-push ke GitHub, tidak perlu diulang tiap clone
+
+## ATURAN FORMAT TULISAN
+- Boleh pakai **bold**, *italic*, dan `code` inline kalau memang sesuai konteks
+- Jangan dipaksakan. Kalau tidak perlu, tidak usah dipakai
+- Bold: untuk penekanan pada frasa kunci, nama diri penting
+- Italic: untuk judul lagu/buku, istilah asing, pemikiran internal, kata yang sedang dibahas
+- Code: untuk istilah teknis, nama file, perintah, path
+- Jangan pakai em dash (—), tetap berlaku
