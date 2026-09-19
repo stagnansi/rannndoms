@@ -282,3 +282,9 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Kembalikan h1-h6 margin-bottom ke 0.4em
 - Tambah rule khusus h1 { margin-bottom: 0.1em } untuk judul artikel
 - Hanya judul artikel yang rapat ke time, heading lain (h2-h6) tetap default
+
+## Update Log Sesi 15
+- Artikel baru: "Kalah dari yang Gratis", tanggal 2025-03-15
+- Tema: langganan Gemini Pro tapi DeepSeek gratis lebih pintar
+- Backlink: deepseek.com, arxiv V3, arxiv R1
+- Judul pendek biar tidak wrapping di HP
