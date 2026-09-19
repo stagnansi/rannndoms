@@ -194,3 +194,7 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Footer brand pakai InterDisplay weight 900 (Black)
 - Letter-spacing -0.02em biar rapat dan tegas
 - Selector: footer a:first-child
+
+## Update Log Sesi 10 revisi
+- Tahun di-wrap dalam span.year
+- Selector footer a:first-child, footer .year sama-sama InterDisplay 900
