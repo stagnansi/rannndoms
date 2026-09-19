@@ -89,3 +89,8 @@ Jangan pakai >> ke style.html, harus rewrite penuh atau sed insert sebelum </sty
 - Tema: kenangan platform blog seluler legendaris, pendiri Arvind Gupta, penutupan 2016
 - Backlink: esato.com, sepenggal.info, mojok.co, infiartt.com
 - README diupdate dengan judul artikel baru
+
+## Update Log Sesi 23 revisi
+- Fix artikel Mywapblog: hapus marker [reference:N], ganti dengan link asli
+- Backlink: esato.com forum untuk tanggal rilis, mojok.co untuk pesan perpisahan
+- Fix readme: pindahkan link artikel baru ke section Isi, tidak lagi nyasar di Lisensi

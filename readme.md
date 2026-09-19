@@ -10,6 +10,7 @@ Semua artikel ada di folder `content/blog/`.
 
 - [Halo Dunia](content/blog/halo-dunia.md) - 08 Jan 2025
 - [Kalah dari yang Gratis](content/blog/kalah-dari-yang-gratis.md) - 15 Mar 2025
+- [Blog dari HP Sebelum Zaman Android](content/blog/blog-dari-hp-sebelum-zaman-android.md) - 12 Jun 2025
 
 ## Catatan
 
@@ -23,5 +24,3 @@ Blog ini tidak punya jadwal tetap. Kadang seminggu sekali, kadang sebulan sekali
 ## Lisensi
 
 Semua tulisan adalah milik penulis. Silakan kutip dengan menyertakan tautan ke sumber aslinya.
-
-- [Blog dari HP Sebelum Zaman Android](content/blog/blog-dari-hp-sebelum-zaman-android.md) - 12 Jun 2025
