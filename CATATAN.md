@@ -116,3 +116,18 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Italic: untuk judul lagu/buku, istilah asing, pemikiran internal, kata yang sedang dibahas
 - Code: untuk istilah teknis, nama file, perintah, path
 - Jangan pakai em dash (—), tetap berlaku
+
+## ATURAN BACKLINK
+- Setiap artikel sebaiknya punya beberapa backlink ke situs eksternal yang relevan dengan konteks kalimat
+- Sumber bebas: berita, X, YouTube, Reddit, Wikipedia, situs resmi brand, dan lain-lain
+- Jangan dipaksakan. Kalau kalimatnya tidak butuh link, tidak usah
+- Link ditaruh di dalam kalimat, bukan daftar terpisah di akhir
+- Format: [teks](url)
+
+## ATURAN FORMAT TULISAN
+- Boleh pakai **bold**, *italic*, dan `code` inline kalau sesuai konteks
+- Jangan dipaksakan. Kalau tidak perlu, tidak usah dipakai
+- Bold: untuk penekanan frasa kunci, nama diri penting
+- Italic: untuk judul lagu/buku, istilah asing, pemikiran internal
+- Code: untuk istilah teknis, nama file, perintah, path
+- Em dash (—) tidak boleh dipakai sama sekali
