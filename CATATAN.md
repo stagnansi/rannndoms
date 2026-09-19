@@ -339,3 +339,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Fix CSS nyasar di luar </style> karena append >> ke style.html
 - Hapus baris CSS yang muncul sebagai teks, re-insert di dalam </style>
 - Pelajaran: JANGAN pakai >> ke style.html, harus pakai sed insert sebelum </style>
+
+## Update Log Sesi 21 revisi 2
+- Root cause: .footer-brand masih punya display: none dari sesi 20, tidak pernah di-override
+- Fix: .footer-brand default inline-flex, JS cuma toggle .scrollable class di html
+- .footer-minimal dan .footer-full yang handle visibility, bukan parentnya

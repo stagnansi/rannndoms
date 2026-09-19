@@ -249,13 +249,26 @@ footer a:hover {
 .copyright {
   color: #999;
 }
+.footer-minimal {
+  display: inline;
+}
+.footer-full {
+  display: none;
+}
+html.scrollable .footer-minimal {
+  display: none;
+}
+html.scrollable .footer-full {
+  display: inline;
+}
+.footer-full.reg {
+  color: #999;
+  font-weight: 900;
+}
+.footer-full:hover {
+  border-bottom: none;
+}
 </style>
-.footer-minimal { display: inline; }
-.footer-full { display: none; }
-html.scrollable .footer-minimal { display: none; }
-html.scrollable .footer-full { display: inline; }
-.footer-full.reg { color: #999; font-weight: 900; }
-.footer-full:hover { border-bottom: none; }
 <link rel="preconnect" href="https://rsms.me/">
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
