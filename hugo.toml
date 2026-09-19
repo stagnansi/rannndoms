@@ -1,9 +1,11 @@
 baseURL = "https://rannndoms.pages.dev/"
 title = "Rannndoms®"
 theme = "hugo-bearblog"
+buildFuture = true
+disableHugoGeneratorInject = true
 
 [params]
-  description = "Catatan acak dari Android"
+  description = "Tulisan pendek tentang apa pun yang sedang menarik perhatian"
   author = "Rannndoms"
 
 [markup]

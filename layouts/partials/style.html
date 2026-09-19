@@ -1,8 +1,9 @@
 <style>
 :root {
   --width: 720px;
-  --font-main: Verdana, sans-serif;
-  --font-secondary: Verdana, sans-serif;
+  --font-main: InterDisplay, sans-serif;
+  --font-secondary: Inter, sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
   --font-scale: 1em;
   --background-color: #fff;
   --heading-color: #222;
@@ -20,8 +21,9 @@ body {
   background-color: var(--background-color);
   word-wrap: break-word;
   overflow-wrap: break-word;
-  line-height: 1.5;
+  line-height: 1.4;
   color: var(--text-color);
+  font-feature-settings: "liga" 1, "calt" 1;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-main);
@@ -46,12 +48,12 @@ button {
   cursor: pointer;
 }
 time {
-  font-family: monospace;
+  font-family: var(--font-mono);
   font-style: normal;
   font-size: 15px;
 }
 main {
-  line-height: 1.6;
+  line-height: 1.5;
 }
 table {
   width: 100%;
@@ -64,7 +66,7 @@ img {
   max-width: 100%;
 }
 code {
-  font-family: monospace;
+  font-family: var(--font-mono);
   padding: 2px;
   border-radius: 3px;
 }

@@ -52,3 +52,39 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Favicon kustom
 - Menu navigasi
 - Sosial media links
+
+## Referensi Gaya Tulisan
+- URL: https://herman.bearblog.dev
+- Ciri khas: esai pendek-menengah, judul singkat, paragraf padat, bahasa personal
+- Tidak ada meta tag Hugo, tidak ada jejak generator
+
+## Preferensi Pengguna
+- Judul artikel pendek dan to the point
+- Tidak mau ketahuan pakai Hugo dari View Source
+- Update artikel via Termux copas dari AI, bukan PocketHugo
+
+## Update Log
+
+### Sesi 2
+- Deskripsi situs diubah jadi: "Tulisan pendek tentang apa pun yang sedang menarik perhatian"
+- disableHugoGeneratorInject = true ditambahkan ke hugo.toml (hapus jejak meta generator Hugo)
+- line-height dirapatkan: body 1.5 -> 1.4, main 1.6 -> 1.5
+- Artikel Halo Dunia ditulis ulang gaya Herman: pendek, personal, tanpa menyebut Hugo
+- Referensi: herman.bearblog.dev
+- Judul artikel mulai sekarang pendek dan to the point
+- Update artikel via Termux (copas dari AI), bukan PocketHugo
+
+## ATURAN PENTING (mulai sekarang)
+- Setiap update WAJIB langsung commit dan push, tanpa nunggu konfirmasi
+- Setiap kali ada perubahan, CATATAN.md ikut diupdate
+- Artikel minimal 800 kata
+- Judul artikel pendek dan to the point
+- Bahasa Indonesia, gaya Herman: paragraf mengalir, personal, tanpa bullet berlebihan
+
+## Update Log Sesi 3
+- Deskripsi situs: "Tulisan pendek tentang apa pun yang sedang menarik perhatian"
+- disableHugoGeneratorInject = true (hapus jejak meta Hugo)
+- line-height: body 1.4, main 1.5 (dirapatkan sesuai permintaan)
+- Artikel Halo Dunia ditulis ulang, 850+ kata, gaya Herman
+- Referensi gaya: herman.bearblog.dev
+- Font: InterDisplay (heading), Inter (body), IBM Plex Mono (code & time)

@@ -38,8 +38,9 @@
   <style>
 :root {
   --width: 720px;
-  --font-main: Verdana, sans-serif;
-  --font-secondary: Verdana, sans-serif;
+  --font-main: InterDisplay, sans-serif;
+  --font-secondary: Inter, sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
   --font-scale: 1em;
   --background-color: #fff;
   --heading-color: #222;
@@ -59,6 +60,7 @@ body {
   overflow-wrap: break-word;
   line-height: 1.5;
   color: var(--text-color);
+  font-feature-settings: "liga" 1, "calt" 1;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-main);
@@ -83,7 +85,7 @@ button {
   cursor: pointer;
 }
 time {
-  font-family: monospace;
+  font-family: var(--font-mono);
   font-style: normal;
   font-size: 15px;
 }
@@ -101,7 +103,7 @@ img {
   max-width: 100%;
 }
 code {
-  font-family: monospace;
+  font-family: var(--font-mono);
   padding: 2px;
   border-radius: 3px;
 }
@@ -145,7 +147,11 @@ ul.blog-posts li span {
   flex: 0 0 130px;
 }
 </style>
-
+<link rel="preconnect" href="https://rsms.me/">
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&display=swap">
 </head>
 
 <body>
