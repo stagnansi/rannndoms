@@ -288,3 +288,7 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Tema: langganan Gemini Pro tapi DeepSeek gratis lebih pintar
 - Backlink: deepseek.com, arxiv V3, arxiv R1
 - Judul pendek biar tidak wrapping di HP
+
+## Update Log Sesi 16
+- Tambah README.md untuk GitHub, tanpa menyebut nama generator situs
+- Isi: deskripsi blog, daftar artikel, prinsip tulisan, kontak

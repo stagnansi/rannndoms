@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 08 Jan 2025 20:00:00 +0700</lastBuildDate>
+			<lastBuildDate>Sat, 15 Mar 2025 20:00:00 +0700</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kalah dari yang Gratis</title>
+				<link>http://localhost:1313/blog/kalah-dari-yang-gratis/</link>
+				<pubDate>Sat, 15 Mar 2025 20:00:00 +0700</pubDate>
+				<guid>http://localhost:1313/blog/kalah-dari-yang-gratis/</guid>
+				<description>&lt;p&gt;Selamat datang.&lt;/p&gt;&#xA;&lt;p&gt;Beberapa minggu lalu saya bayar langganan &lt;strong&gt;Gemini Pro&lt;/strong&gt;. Bukan karena butuh. Bukan karena ada proyek yang menuntut. Hanya karena tergoda tombol upgrade yang muncul di sudut layar, dengan harga bulanan yang tidak terasa mahal, dan janji fitur yang terdengar meyakinkan. Konteks panjang. Integrasi dengan ekosistem Google. Multimodal. Semua kata itu membentuk satu paket yang sepertinya bodoh kalau dilewatkan.&lt;/p&gt;&#xA;&lt;p&gt;Saya klik. Kartu saya terpotong. Akun saya jadi Pro.&lt;/p&gt;&#xA;&lt;p&gt;Lalu saya pakai. Beberapa hari pertama, semua terasa baru dan menyenangkan. Saya coba minta bantuan menulis, mengedit, ngoding. Hasilnya oke. Tidak buruk. Tapi juga tidak istimewa. Ada kalanya jawabannya generik, terlalu berhati-hati, seperti asisten yang takut salah. Ada kalanya saya harus mengulang pertanyaan dua tiga kali dengan cara berbeda supaya dapat jawaban yang saya mau.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Halo Dunia</title>
 				<link>http://localhost:1313/blog/halo-dunia/</link>
