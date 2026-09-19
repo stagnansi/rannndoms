@@ -252,3 +252,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 ## Update Log Sesi 13 revisi 2
 - Konfirmasi: selector ul.blog-posts li a hanya berlaku di homepage list
 - single.html pakai h1 default, tidak terpengaruh
+
+## Update Log Sesi 13 revisi 5
+- Hapus font-weight dari heading umum h1-h6, biarkan browser default (bold)
+- Sesuai tema asli Bear Blog yang tidak set font-weight di heading
+- Judul situs (.title h1, .title h2) tetap 900 karena permintaan eksplisit sebelumnya
