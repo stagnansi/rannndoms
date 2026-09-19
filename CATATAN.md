@@ -164,3 +164,7 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Heading h1-h6 line-height diset 1
 - Heading margin-bottom 0.4em
 - Jarak judul ke time dirapatkan dengan rule h1 + p margin-top 0
+
+## Update Log Sesi 7
+- Deskripsi situs diganti: "Tulisan yang tidak dicari siapa pun, tapi ditulis dengan sungguh-sungguh"
+- Alasan: konsisten dengan artikel 800+ kata, lebih catchy, self-aware

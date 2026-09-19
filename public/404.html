@@ -61,6 +61,8 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-main);
+  line-height: 1;
+  margin-bottom: 0.4em;
   color: var(--heading-color);
 }
 a {
@@ -142,6 +144,10 @@ ul.blog-posts li {
 }
 ul.blog-posts li span {
   flex: 0 0 130px;
+}
+h1 + p, h2 + p, h3 + p, h4 + p {
+  margin-top: 0;
+  margin-bottom: 0.6em;
 }
 </style>
 <link rel="preconnect" href="https://rsms.me/">
