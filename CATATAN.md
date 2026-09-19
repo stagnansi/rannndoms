@@ -88,3 +88,14 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Artikel Halo Dunia ditulis ulang, 850+ kata, gaya Herman
 - Referensi gaya: herman.bearblog.dev
 - Font: InterDisplay (heading), Inter (body), IBM Plex Mono (code & time)
+
+## Update Log Sesi 4
+- Artikel Halo Dunia ditulis ulang, tanpa em dash sama sekali
+- Ditambahkan cerita personal: lagu Abadi dari Perunggu diputar 1.284 kali + sebungkus Djarum 76 Apel Royal
+- ATURAN BARU: semua tulisan tidak boleh pakai em dash (biar tidak kelihatan AI)
+
+## ATURAN MUTLAK (jangan dilanggar)
+- JANGAN PERNAH pakai em dash (karakter panjang ini: —) di tulisan apapun
+- Alasan: biar tidak kelihatan seperti tulisan AI
+- Kalau butuh pemisah, pakai koma, titik, titik dua, tanda kurung, atau pisah jadi dua kalimat
+- Berlaku untuk artikel, catatan, komentar, dan file apapun di repo ini
