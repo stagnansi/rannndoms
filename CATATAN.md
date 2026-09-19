@@ -326,3 +326,11 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Bird hover jadi warna Twitter #1DA1F2, tanpa underline
 - footer-brand auto-hide sama seperti to-top saat halaman tidak scrollable
 - JS update selector .footer-brand dan .to-top sekaligus
+
+## Update Log Sesi 21
+- Footer punya dua versi teks:
+  - Tidak scrollable (pendek): bird / (c) tahun
+  - Scrollable (artikel panjang): bird / Rannndoms (R) dengan link + hover
+- JS toggling class scrollable di html element, CSS yang switch
+- Bird dan Rannndoms dua-duanya link ke x.com/rannndoms
+- Bird hover warna Twitter, Rannndoms hover tanpa underline

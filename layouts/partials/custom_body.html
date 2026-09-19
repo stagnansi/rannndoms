@@ -2,9 +2,8 @@
 (function() {
   function update() {
     var scrollable = document.documentElement.scrollHeight > window.innerHeight + 50;
-    var brand = document.querySelector(".footer-brand");
+    document.documentElement.classList.toggle("scrollable", scrollable);
     var top = document.querySelector(".to-top");
-    if (brand) brand.style.display = scrollable ? "inline-flex" : "none";
     if (top) top.style.display = scrollable ? "inline-flex" : "none";
   }
   update();
