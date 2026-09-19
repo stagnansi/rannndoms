@@ -174,3 +174,8 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 
 ## ATURAN TANGGAL ARTIKEL
 - Halo Dunia: 8 Januari 2025
+
+## Update Log Sesi 8
+- Footer diganti: Rannndoms® / {{ now.Year }} (tahun otomatis)
+- Styling: border-top 1px #e5e5e5, margin-top 40px, warna #999, font-size 0.85em, letter-spacing 0.05em
+- Kombinasi F (slash) + D (garis horizontal)
