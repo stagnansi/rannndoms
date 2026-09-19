@@ -150,3 +150,12 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 - Untuk lagu: link ke video YouTube official dari channel resmi artis/label.
 - Untuk brand: link ke situs resmi atau review/artikel kredibel yang membahas brand itu.
 - Sumber bebas: X, YouTube, Reddit, berita, jurnal, blog pribadi. Selain Wikipedia.
+
+## ATURAN BACKLINK (FINAL)
+- Link langsung menyatu di dalam kalimat, TANPA frasa pengantar apapun
+- Dilarang: "ada sebuah tweet", "xxx pernah bilang", "artikel di X", "penelitian dari X", "menurut X"
+- Contoh benar: "Jangkauan di X bisa [35.000 kali lebih besar dari blog](url)."
+- Contoh salah: "Levelsio pernah bilang bahwa jangkauan di X bisa 35.000 kali lebih besar dari blog."
+- Dilarang link ke Wikipedia
+- Untuk lagu: link YouTube official dari channel resmi
+- Untuk brand: situs resmi atau review kredibel
