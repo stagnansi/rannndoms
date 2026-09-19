@@ -292,3 +292,7 @@ Jangan pakai heredoc cat EOF atau printf dengan backslash di akhir baris.
 ## Update Log Sesi 16
 - Tambah README.md untuk GitHub, tanpa menyebut nama generator situs
 - Isi: deskripsi blog, daftar artikel, prinsip tulisan, kontak
+
+## Update Log Sesi 17
+- Fix artikel Kalah dari yang Gratis: hapus kalimat Selamat datang di awal
+- Tambah rule footer a:hover text-decoration none (hover di footer tidak underline, link di body tetap)

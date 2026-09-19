@@ -4,8 +4,6 @@ date: 2025-03-15T20:00:00+07:00
 draft: false
 ---
 
-Selamat datang.
-
 Beberapa minggu lalu saya bayar langganan **Gemini Pro**. Bukan karena butuh. Bukan karena ada proyek yang menuntut. Hanya karena tergoda tombol upgrade yang muncul di sudut layar, dengan harga bulanan yang tidak terasa mahal, dan janji fitur yang terdengar meyakinkan. Konteks panjang. Integrasi dengan ekosistem Google. Multimodal. Semua kata itu membentuk satu paket yang sepertinya bodoh kalau dilewatkan.
 
 Saya klik. Kartu saya terpotong. Akun saya jadi Pro.
