@@ -1,0 +1,11 @@
+{{ define "main" }}
+<p>{{ .Site.Params.description }}</p>
+<ul class="blog-posts">
+{{ range where .Site.RegularPages "Section" "blog" }}
+<li>
+<span><i><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02 Jan, 2006" }}</time></i></span>
+<a href="{{ .Permalink }}">{{ .Title }}</a>
+</li>
+{{ end }}
+</ul>
+{{ end }}
