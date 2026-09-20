@@ -121,3 +121,6 @@ Jangan pakai >> ke style.html, harus rewrite penuh atau sed insert sebelum </sty
 - Fix title homepage dobel "Rannndoms | Rannndoms"
 - Override block title di layouts/index.html jadi hanya .Site.Title
 - Halaman artikel tetap pakai format "Judul Artikel | Rannndoms"
+
+## Update Log Sesi 26 revisi
+- Blog list di homepage: font-weight 500 (medium) dihapus, kembali regular
