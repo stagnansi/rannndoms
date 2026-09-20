@@ -102,7 +102,7 @@ Jangan pakai >> ke style.html, harus rewrite penuh atau sed insert sebelum </sty
 - Aturan final: semua artikel wajib variasi teks merata
 
 ## Update Log Sesi 25
-- Artikel baru: "Tiga Singkatan yang Sering Ketuker" tentang perbedaan FBI, SWAT, MI6
+- Artikel baru: "Tiga Singkatan yang Sering Tertukar" tentang perbedaan FBI, SWAT, MI6
 - Tanggal: 2025-09-08
 - Tema: perbandingan fungsi, yurisdiksi, dan domain kerja FBI, SWAT, MI6
 - Gaya: mengalir, personal, dengan analogi
