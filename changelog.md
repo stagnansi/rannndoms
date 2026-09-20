@@ -116,3 +116,8 @@ Jangan pakai >> ke style.html, harus rewrite penuh atau sed insert sebelum </sty
 - Buka dengan cerita personal (salah kaprah waktu kecil), bukan definisi
 - Variasi bold/italic tersebar merata
 - ATURAN TEGAS: artikel baru tidak boleh pakai heading ## berlebihan, harus gaya esai mengalir seperti Herman
+
+## Update Log Sesi 26
+- Fix title homepage dobel "Rannndoms | Rannndoms"
+- Override block title di layouts/index.html jadi hanya .Site.Title
+- Halaman artikel tetap pakai format "Judul Artikel | Rannndoms"
