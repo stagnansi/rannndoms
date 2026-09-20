@@ -24,3 +24,5 @@ Blog ini tidak punya jadwal tetap. Kadang seminggu sekali, kadang sebulan sekali
 ## Lisensi
 
 Semua tulisan adalah milik penulis. Silakan kutip dengan menyertakan tautan ke sumber aslinya.
+
+- [Tiga Singkatan yang Sering Ketuker](content/blog/tiga-singkatan-yang-sering-ketuker.md) - 08 Sep 2025
