@@ -1,5 +1,5 @@
 ---
-title: "Tiga Singkatan yang Sering Ketuker"
+title: "Tiga Singkatan yang Sering Tertukar"
 date: 2025-09-08T20:00:00+07:00
 draft: false
 ---
