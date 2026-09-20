@@ -108,3 +108,11 @@ Jangan pakai >> ke style.html, harus rewrite penuh atau sed insert sebelum </sty
 - Gaya: mengalir, personal, dengan analogi
 - Variasi teks: bold untuk istilah kunci dan angka, italic untuk istilah asing
 - README diupdate dengan judul artikel baru
+
+## Update Log Sesi 25 revisi
+- Rewrite total artikel FBI/SWAT/MI6: hapus semua heading ##, kembali ke gaya esai mengalir
+- Judul diganti jadi "Tiga yang Sering Tertukar" (lebih pendek)
+- Slug diganti jadi tiga-yang-sering-tertukar
+- Buka dengan cerita personal (salah kaprah waktu kecil), bukan definisi
+- Variasi bold/italic tersebar merata
+- ATURAN TEGAS: artikel baru tidak boleh pakai heading ## berlebihan, harus gaya esai mengalir seperti Herman
